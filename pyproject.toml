@@ -9,6 +9,7 @@ dependencies = [
     "drissionpage>=4.1.0.17",
     "fonttools>=4.56.0",
     "ipykernel>=6.29.5",
+    "loguru>=0.7.3",
     "pandas>=2.2.3",
     "pyecharts>=2.0.8",
     "requests>=2.32.3",
